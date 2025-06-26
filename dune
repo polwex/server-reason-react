@@ -1,4 +1,4 @@
-(dirs packages demo documentation benchmark)
+(dirs packages)
 
 (documentation
  (package server-reason-react))
